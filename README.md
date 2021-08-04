@@ -4,8 +4,9 @@ This is a C# sharp script that opens up text files and returns the integer of th
 
 # Installation and Setup
 
-1. Clone the repo or download the project zip.
-2. Launch UkenChallenge.sln in Visual Studio.
+1. Simply launch the project in Visual Studio Code or Clone the repo or download the project zip.
+2. Launch UkenChallenge.sln in Visual Studio if you did not choose the first option.
 3. Verify that the file paths in the main method match the location of the text files on your machine.
 4. The main method can be found under Program.cs
-5. Simply run the code to display the solution. 
+5. The text files in question are located in the source folder.
+6. Simply run the main method in Project.cs to display the solution. 
