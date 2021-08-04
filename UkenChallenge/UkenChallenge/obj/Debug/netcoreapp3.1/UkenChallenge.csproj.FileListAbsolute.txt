@@ -1,0 +1,13 @@
+C:\Users\cyril\source\repos\UkenChallenge\UkenChallenge\bin\Debug\netcoreapp3.1\UkenChallenge.exe
+C:\Users\cyril\source\repos\UkenChallenge\UkenChallenge\bin\Debug\netcoreapp3.1\UkenChallenge.deps.json
+C:\Users\cyril\source\repos\UkenChallenge\UkenChallenge\bin\Debug\netcoreapp3.1\UkenChallenge.runtimeconfig.json
+C:\Users\cyril\source\repos\UkenChallenge\UkenChallenge\bin\Debug\netcoreapp3.1\UkenChallenge.runtimeconfig.dev.json
+C:\Users\cyril\source\repos\UkenChallenge\UkenChallenge\bin\Debug\netcoreapp3.1\UkenChallenge.dll
+C:\Users\cyril\source\repos\UkenChallenge\UkenChallenge\bin\Debug\netcoreapp3.1\UkenChallenge.pdb
+C:\Users\cyril\source\repos\UkenChallenge\UkenChallenge\obj\Debug\netcoreapp3.1\UkenChallenge.csproj.AssemblyReference.cache
+C:\Users\cyril\source\repos\UkenChallenge\UkenChallenge\obj\Debug\netcoreapp3.1\UkenChallenge.AssemblyInfoInputs.cache
+C:\Users\cyril\source\repos\UkenChallenge\UkenChallenge\obj\Debug\netcoreapp3.1\UkenChallenge.AssemblyInfo.cs
+C:\Users\cyril\source\repos\UkenChallenge\UkenChallenge\obj\Debug\netcoreapp3.1\UkenChallenge.csproj.CoreCompileInputs.cache
+C:\Users\cyril\source\repos\UkenChallenge\UkenChallenge\obj\Debug\netcoreapp3.1\UkenChallenge.dll
+C:\Users\cyril\source\repos\UkenChallenge\UkenChallenge\obj\Debug\netcoreapp3.1\UkenChallenge.pdb
+C:\Users\cyril\source\repos\UkenChallenge\UkenChallenge\obj\Debug\netcoreapp3.1\UkenChallenge.genruntimeconfig.cache
